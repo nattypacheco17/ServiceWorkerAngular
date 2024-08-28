@@ -1,0 +1,34 @@
+.tit{
+    color: crimson;
+    text-align: center;
+}
+mat-grid-tile {
+    background: black;
+    color: pink;
+  }
+  
+  
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px; 
+    min-width: 223vh;
+    color: black;
+  }
+  
+    
+  .example-card {
+    max-width: 400px;
+  }
+  /* Structure */
+table {
+    width: 100%;
+  }
+  
+  .mat-mdc-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  
